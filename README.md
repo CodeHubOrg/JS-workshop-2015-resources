@@ -9,9 +9,10 @@ Material and links for JS workshop in Bristol 14 November 2015
   
 - Danielle Emma Vass  --  Hardware hacking with littleBits
 
-* nodejs - https://nodejs.org/en/ - be able to run a nodejs script using cmd or terminal!
-* npm request - https://www.npmjs.com/package/request
-* npm yql - https://www.npmjs.com/package/yql
+    * nodejs - https://nodejs.org/en/ - be able to run a nodejs script using cmd or terminal!
+    * npm request - https://www.npmjs.com/package/request
+    * npm yql - https://www.npmjs.com/package/yql
+
 
 - Nico Burns  --  Transpiling in 2015 - Not as scary as you think
 

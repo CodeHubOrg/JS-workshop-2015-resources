@@ -2,6 +2,8 @@
 Material and links for JS workshop in Bristol 14 November 2015
 
 - Bridget McErlean -- Test-driven development of Express applications using Mocha and Chai
+  * [git](https://git-scm.com/) (I'll be providing an example project.)
+  * [Node.js](https://nodejs.org/en/)
 
 - Denis Sellu  --  Getting started with Ionic framework     
   Everything that is needed to start developing apps for ionic:    

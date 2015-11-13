@@ -14,6 +14,7 @@ Material and links for JS workshop in Bristol 14 November 2015
     * nodejs - https://nodejs.org/en/ - be able to run a nodejs script using cmd or terminal!
     * npm request - https://www.npmjs.com/package/request
     * npm yql - https://www.npmjs.com/package/yql
+    * slides - https://speakerdeck.com/daniellevass/littlebits-hardware-hack-at-codehub-bristol-november-2015
 
 
 - Nico Burns  --  Transpiling in 2015 - Not as scary as you think

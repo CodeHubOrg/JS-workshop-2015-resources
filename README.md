@@ -22,7 +22,7 @@ Material and links for JS workshop in Bristol 14 November 2015
   * https://github.com/nicoburns/transpiling-demo
 
 - Jack Franklin - ES6 
-  * [Interactive tutorial app](http://bristol-js-es6.surge.sh/#/?_k=h81g2s)
+  * [Interactive tutorial app](http://bristol-js-es6.surge.sh/)
   * [Source for the app](https://github.com/jackfranklin/interactive-es6)
   * [JavaScript Playground](http://javascriptplayground.com/) blog
   * [Exploring ES6](http://exploringjs.com/) book (recommended by but not written by Jack)

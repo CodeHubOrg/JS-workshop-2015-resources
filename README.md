@@ -5,6 +5,7 @@ Material and links for JS workshop in Bristol 14 November 2015
   * [git](https://git-scm.com/) (I'll be providing an example project.)
   * [Node.js](https://nodejs.org/en/)
   * [Example project](https://github.com/zubron/tdd-express-mocha-chai)
+  * Slides - https://docs.google.com/presentation/d/1ZAD4qaON2nEjTZzK10K6hF9wYkniFNVlLwdAzfLXb94/edit?usp=sharing
 
 - Denis Sellu  --  Getting started with Ionic framework     
   Everything that is needed to start developing apps for ionic:    
